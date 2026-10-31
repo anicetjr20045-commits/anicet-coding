@@ -1,0 +1,51 @@
+{
+  "theme": "Dark Luxury & Tech Precision",
+  "colors": {
+    "canvas": "#050608",
+    "surface": "#0C0E14",
+    "surfaceRaised": "#131620",
+    "border": "rgba(255, 255, 255, 0.08)",
+    "borderHover": "rgba(255, 255, 255, 0.18)",
+    "textPrimary": "#F3F4F6",
+    "textSecondary": "#9CA3AF",
+    "textMuted": "#6B7280",
+    "accent": "#FFFFFF",
+    "accentText": "#000000",
+    "statusSuccess": "#10B981",
+    "statusWarning": "#F59E0B",
+    "statusError": "#EF4444",
+    "codeBg": "#08090C"
+  },
+  "typography": {
+    "fontFamily": "Inter, system-ui, -apple-system, sans-serif",
+    "monoFamily": "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace",
+    "weights": {
+      "regular": 400,
+      "medium": 500,
+      "semibold": 600
+    }
+  },
+  "components": {
+    "buttonPrimary": "bg-white text-black hover:bg-neutral-200 transition-colors duration-150 px-4 py-2 rounded-full font-medium text-xs tracking-wide",
+    "buttonSecondary": "bg-white/[0.05] text-white hover:bg-white/[0.1] border border-white/[0.1] transition-colors duration-150 px-4 py-2 rounded-full font-medium text-xs tracking-wide",
+    "card": "bg-[#0C0E14] border border-white/[0.08] rounded-xl p-6 transition-all duration-200 hover:border-white/[0.16]",
+    "badge": "inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[11px] font-medium tracking-wide uppercase border border-white/[0.1] bg-white/[0.04] text-neutral-300",
+    "input": "bg-[#08090C] border border-white/[0.1] rounded-lg px-3 py-2 text-sm text-white placeholder-neutral-500 focus:outline-none focus:border-white/30"
+  },
+  "icons": [
+    "Terminal",
+    "Code2",
+    "Sparkles",
+    "Cpu",
+    "Smartphone",
+    "Globe",
+    "Layers",
+    "Play",
+    "RefreshCw",
+    "ArrowUpRight",
+    "Check",
+    "ChevronRight",
+    "Copy",
+    "ExternalLink"
+  ]
+}

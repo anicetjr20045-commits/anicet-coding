@@ -1,0 +1,17 @@
+{
+  "name": "Anicet Coding",
+  "short_name": "AnicetCoding",
+  "description": "Studio de Développement IA Autonome Haute Fidélité",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050608",
+  "theme_color": "#050608",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
